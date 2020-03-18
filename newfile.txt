@@ -1,2 +1,3 @@
 123456
 vim is awesomes
+Vim sucks, using nano now
